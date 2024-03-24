@@ -33,6 +33,7 @@ We believe in the power of collaboration and long-term partnerships. Whether you
 ## 📞 Get in Touch
 
 - 🌐 Website: [kudostech.ro](https://kudostech.ro)
+- 📞 Tel: +40745628522
 - 📧 Email: [contact@kudostech.ro](mailto:contact@kudostech.ro)
 - 💼 LinkedIn: [Kudos Technologies LinkedIn](https://www.linkedin.com/company/kudos-technologies)
 
